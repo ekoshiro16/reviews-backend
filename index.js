@@ -3,21 +3,10 @@ const express = require("express");
 const fs = require("fs"); 
 const app = express(); 
 const PORT = 3000; 
-const reviewsPathName = "reviewsData.json";
 
 app.use(express.json()); 
 
-async function writeReviewsData(jsonData) {
-    try {  
-        fs.writeFile("reviewsData.json", jsonData, (err) => {
-            if (err) throw err; 
-            console.log("Reviews data has been written!");
-        });
-    } catch (e) {
-        console.error(e); 
-    };
-};
-
+// This helper function fetches the reviews data from the Apple Store RSS feed and writes that data into the "reviewsData.json" file
 async function addReviewsToFile() {
     console.log("addReviewsToFile invoked - fetching & writing data...");
     try {
@@ -37,6 +26,7 @@ async function addReviewsToFile() {
     };
 };
 
+// This endpoint is used to read the reviews data from the "reviewsData.json" file, parse it, and send it to our frontend client. 
 app.get("/api/reviews", async (req, res) => {
     console.log("/api/reviews hit")
     try {
@@ -62,6 +52,7 @@ app.get("/api/reviews", async (req, res) => {
     };
 });
 
+// This endpoint is used to manually refresh the JSON file with the reviews data and send that parsed data back to the frontend client. 
 app.get("/api/reviews/refresh", async (req, res) => {
     try {
         await addReviewsToFile(); 
@@ -86,6 +77,7 @@ app.get("/api/reviews/refresh", async (req, res) => {
     };
 });
 
+// This backend client polls the Apple Store RSS feed every minute to ensure the stored JSON reviews data is kept up to date 
 setInterval(addReviewsToFile, 60000);
 
 app.listen(PORT, () => {
