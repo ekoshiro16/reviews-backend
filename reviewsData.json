@@ -2,6 +2,106 @@
   {
     "author": {
       "uri": {
+        "label": "https://itunes.apple.com/us/reviews/id116809490"
+      },
+      "name": {
+        "label": "cwsterling"
+      },
+      "label": ""
+    },
+    "updated": {
+      "label": "2024-02-16T13:08:52-07:00"
+    },
+    "im:rating": {
+      "label": "1"
+    },
+    "im:version": {
+      "label": "18.11.1"
+    },
+    "id": {
+      "label": "10946326390"
+    },
+    "title": {
+      "label": "Endless push notifications"
+    },
+    "content": {
+      "label": "Have all push notifications turned off, yet day after day, keep getting push notifications",
+      "attributes": {
+        "type": "text"
+      }
+    },
+    "link": {
+      "attributes": {
+        "rel": "related",
+        "href": "https://itunes.apple.com/us/review?id=405075943&type=Purple%20Software"
+      }
+    },
+    "im:voteSum": {
+      "label": "0"
+    },
+    "im:contentType": {
+      "attributes": {
+        "term": "Application",
+        "label": "Application"
+      }
+    },
+    "im:voteCount": {
+      "label": "0"
+    }
+  },
+  {
+    "author": {
+      "uri": {
+        "label": "https://itunes.apple.com/us/reviews/id36345153"
+      },
+      "name": {
+        "label": "LadyGlynis"
+      },
+      "label": ""
+    },
+    "updated": {
+      "label": "2024-02-16T12:49:41-07:00"
+    },
+    "im:rating": {
+      "label": "5"
+    },
+    "im:version": {
+      "label": "18.11.1"
+    },
+    "id": {
+      "label": "10946280620"
+    },
+    "title": {
+      "label": "Wealth of Trails"
+    },
+    "content": {
+      "label": "I’ve used this app in California, Missouri and now Italy!  I am so impressed at how many trails I have been able to find all over!",
+      "attributes": {
+        "type": "text"
+      }
+    },
+    "link": {
+      "attributes": {
+        "rel": "related",
+        "href": "https://itunes.apple.com/us/review?id=405075943&type=Purple%20Software"
+      }
+    },
+    "im:voteSum": {
+      "label": "0"
+    },
+    "im:contentType": {
+      "attributes": {
+        "term": "Application",
+        "label": "Application"
+      }
+    },
+    "im:voteCount": {
+      "label": "0"
+    }
+  },
+  {
+    "author": {
+      "uri": {
         "label": "https://itunes.apple.com/us/reviews/id33565024"
       },
       "name": {
@@ -2376,106 +2476,6 @@
     },
     "content": {
       "label": "Loved the app. Missed a confusing corner on the trail and realized we were off track. Looked at All Trails app which showed we were off the trail. Back tracked and with app open got back on the trail.",
-      "attributes": {
-        "type": "text"
-      }
-    },
-    "link": {
-      "attributes": {
-        "rel": "related",
-        "href": "https://itunes.apple.com/us/review?id=405075943&type=Purple%20Software"
-      }
-    },
-    "im:voteSum": {
-      "label": "0"
-    },
-    "im:contentType": {
-      "attributes": {
-        "term": "Application",
-        "label": "Application"
-      }
-    },
-    "im:voteCount": {
-      "label": "0"
-    }
-  },
-  {
-    "author": {
-      "uri": {
-        "label": "https://itunes.apple.com/us/reviews/id658450817"
-      },
-      "name": {
-        "label": "Jake D.C."
-      },
-      "label": ""
-    },
-    "updated": {
-      "label": "2024-01-27T17:58:26-07:00"
-    },
-    "im:rating": {
-      "label": "5"
-    },
-    "im:version": {
-      "label": "18.10.0"
-    },
-    "id": {
-      "label": "10871930161"
-    },
-    "title": {
-      "label": "Excellent customer service"
-    },
-    "content": {
-      "label": "The app worked while while I used it! No complaints! But what I would like to praise more than anything is how easy it was to contact customer support when I had trouble with billing. Fast response. Super helpful. I couldn’t ask for better service!",
-      "attributes": {
-        "type": "text"
-      }
-    },
-    "link": {
-      "attributes": {
-        "rel": "related",
-        "href": "https://itunes.apple.com/us/review?id=405075943&type=Purple%20Software"
-      }
-    },
-    "im:voteSum": {
-      "label": "0"
-    },
-    "im:contentType": {
-      "attributes": {
-        "term": "Application",
-        "label": "Application"
-      }
-    },
-    "im:voteCount": {
-      "label": "0"
-    }
-  },
-  {
-    "author": {
-      "uri": {
-        "label": "https://itunes.apple.com/us/reviews/id1618461113"
-      },
-      "name": {
-        "label": "Buckeye Abroad"
-      },
-      "label": ""
-    },
-    "updated": {
-      "label": "2024-01-27T16:41:08-07:00"
-    },
-    "im:rating": {
-      "label": "2"
-    },
-    "im:version": {
-      "label": "18.10.0"
-    },
-    "id": {
-      "label": "10871739970"
-    },
-    "title": {
-      "label": "Few Trails, Many Scams"
-    },
-    "content": {
-      "label": "Somehow only 3 logged trails in a city with tens of thousands of hikers and multiple mountains. Check the community to see where other folks are hiking and it’s all crypto scams. And they want $35/year for a subscription. Pass.",
       "attributes": {
         "type": "text"
       }
