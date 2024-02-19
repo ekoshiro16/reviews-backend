@@ -1,0 +1,102 @@
+[
+    {
+      "author": {
+        "uri": {
+          "label": "https://itunes.apple.com/us/reviews/id116809490"
+        },
+        "name": {
+          "label": "cwsterling"
+        },
+        "label": ""
+      },
+      "updated": {
+        "label": "2024-02-16T13:08:52-07:00"
+      },
+      "im:rating": {
+        "label": "1"
+      },
+      "im:version": {
+        "label": "18.11.1"
+      },
+      "id": {
+        "label": "10946326390"
+      },
+      "title": {
+        "label": "Endless push notifications"
+      },
+      "content": {
+        "label": "Have all push notifications turned off, yet day after day, keep getting push notifications",
+        "attributes": {
+          "type": "text"
+        }
+      },
+      "link": {
+        "attributes": {
+          "rel": "related",
+          "href": "https://itunes.apple.com/us/review?id=405075943&type=Purple%20Software"
+        }
+      },
+      "im:voteSum": {
+        "label": "0"
+      },
+      "im:contentType": {
+        "attributes": {
+          "term": "Application",
+          "label": "Application"
+        }
+      },
+      "im:voteCount": {
+        "label": "0"
+      }
+    },
+    {
+      "author": {
+        "uri": {
+          "label": "https://itunes.apple.com/us/reviews/id36345153"
+        },
+        "name": {
+          "label": "LadyGlynis"
+        },
+        "label": ""
+      },
+      "updated": {
+        "label": "2024-02-16T12:49:41-07:00"
+      },
+      "im:rating": {
+        "label": "5"
+      },
+      "im:version": {
+        "label": "18.11.1"
+      },
+      "id": {
+        "label": "10946280620"
+      },
+      "title": {
+        "label": "Wealth of Trails"
+      },
+      "content": {
+        "label": "I’ve used this app in California, Missouri and now Italy!  I am so impressed at how many trails I have been able to find all over!",
+        "attributes": {
+          "type": "text"
+        }
+      },
+      "link": {
+        "attributes": {
+          "rel": "related",
+          "href": "https://itunes.apple.com/us/review?id=405075943&type=Purple%20Software"
+        }
+      },
+      "im:voteSum": {
+        "label": "0"
+      },
+      "im:contentType": {
+        "attributes": {
+          "term": "Application",
+          "label": "Application"
+        }
+      },
+      "im:voteCount": {
+        "label": "0"
+      }
+    }
+  ]
